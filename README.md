@@ -4,7 +4,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingeniería+en+Sistemas;BackEnd+Developer;Data+Analyst&center=true&width=400&height=45">
 	</a>
 </p>
-<br> Soy Emiliano, estudiante avanzado de Ingeniería en Sistemas, especializado en Data Analytics, donde utilizo herramientas como **Power BI, Excel, SQL y Looker Studio** para transformar datos complejos en insights accionables. También estoy especializado en Desarrollo Backend, desarrollando soluciones robustas y escalables con tecnologías como **Java, Spring y NodeJS**.
+<br> Soy Emiliano, estudiante avanzado de Ingeniería en Sistemas, especializado en Data Analytics, donde utilizo herramientas como Power BI, Excel, SQL y Looker Studio para transformar datos complejos en insights accionables. También estoy especializado en Desarrollo Backend, desarrollando soluciones robustas y escalables con tecnologías como Java, Spring y NodeJS.
 
 Estoy en búsqueda de nuevos desafíos 🚀 donde pueda aplicar y perfeccionar mis habilidades, contribuyendo a proyectos que impulsen la innovación y la eficiencia en las organizaciones.
 </br>
